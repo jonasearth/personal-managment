@@ -1,0 +1,15 @@
+[submodule "modules/finance-bff"]
+	path = modules/finance-bff
+	url = git@github.com:jonasearth/finance-bff.git
+[submodule "modules/auth-bff"]
+	path = modules/auth-bff
+	url = git@github.com:jonasearth/auth-bff.git
+[submodule "services/finance-core"]
+	path = services/finance-core
+	url = git@github.com:jonasearth/finance-core.git
+[submodule "services/auth-core"]
+	path = services/auth-core
+	url = git@github.com:jonasearth/auth-core.git
+[submodule "services/user-core"]
+	path = services/user-core
+	url = git@github.com:jonasearth/user-core.git

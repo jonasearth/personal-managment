@@ -1,0 +1,25 @@
+{
+"folders": [
+  {
+    "path": "modules/finance-bff",
+    "name": "finance-bff"
+  },
+  {
+    "path": "modules/auth-bff",
+    "name": "auth-bff"
+  },
+  {
+    "path": "services/auth-core"
+  },
+  {
+    "path": "services/finance-core"
+  },
+  {
+    "path": "services/user-core"
+  },
+  {
+    "path": "."
+  }
+],
+  "settings": {}
+}
